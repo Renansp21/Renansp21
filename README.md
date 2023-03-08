@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Iso&size=30&pause=1000&width=435&lines=Renan+Ventura)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Iso&size=30&pause=1000&color=18F730&width=435&lines=Renan+Ventura...)](https://git.io/typing-svg)
 ---
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Iso&duration=1&pause=1000&color=0CF71D&width=435&lines=%3C%2FAbout+Me%2F%3E)](https://git.io/typing-svg)
